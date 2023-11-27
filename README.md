@@ -3,11 +3,11 @@
 I'm Ankit Kumar, a passionate software developer with a keen interest in Web Development. I love turning ideas into code and creating meaningful applications. Currently, I'm focused on developing my devops skills.
 
 #  Technologies & Tools 🔧
-  **Frontend:** [React Js, TailwindCss, Next js, Typescript] 
-  **Backend** [Node JS, Express js, PostgreSql, MongoDb, JWT Auth, Rest API] 
-  **Devops:** [Jenkins, Docker, Kubernetes, Git, Ec2, RDS, Cloudwatch ] 
-  **Tools:** [Vs Code, Postman, Figma,canva]
-  **Programming Language:** [c++, Javascript]
+ - **Frontend:** [React Js, TailwindCss, Next js, Typescript] 
+ - **Backend** [Node JS, Express js, PostgreSql, MongoDb, JWT Auth, Rest API] 
+ - **Devops:** [Jenkins, Docker, Kubernetes, Git, Ec2, RDS, Cloudwatch ] 
+ - **Tools:** [Vs Code, Postman, Figma,canva]
+ - **Programming Language:** [c++, Javascript]
 
 
 Feel free to explore my [GitHub repositories](https://github.com/ank-2222) for more!
